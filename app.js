@@ -1,0 +1,1 @@
+var username = prompt("give me your name")
