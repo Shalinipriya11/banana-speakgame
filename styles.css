@@ -20,7 +20,13 @@ textarea{
     text-align: center;
 }
 
-.btn-Translate{
+.button{
     background-color: coral;
+    margin: 0;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
     
 }
